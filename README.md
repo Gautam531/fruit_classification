@@ -1,7 +1,7 @@
 # fruit_classification
 
 
-Developing a ml model to classify fruits into different categories
+Developing a ml model to classify fruits into different categories\n
 Model involves:
   Preprocessing 
    Labeling
